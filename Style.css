@@ -1,0 +1,106 @@
+body {
+    margin: 0px;
+    background-color: #eaeceb;
+}
+
+main {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Logo img {
+    width: 100px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.Logo {
+    background-color: #232f3f;
+    height: 60px;
+}
+
+.Logo1 img {
+    height: 30px;
+    width: auto;
+}
+
+.Logo1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #232f3f;
+    height: 120px;
+}
+
+.menu {
+    background-color: #344859;
+}
+
+.menu span {
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu1 {
+    background-color: #344859;
+    color: white;
+    text-align: center;
+}
+
+.orangebox {
+    background-color: #f46602;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+.giftbox {
+    height: 150px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(01_banner.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.whitebox {
+    background-color: white;
+    height: 300px;
+}
+
+.whiteboximg {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.whitebox img {
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 5px 5px 10px #232f3f;
+}
+
+.vrbox img {
+    width: 100%;
+    height: auto;
+}
+
+.vrbox {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
